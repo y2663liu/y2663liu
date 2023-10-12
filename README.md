@@ -1,4 +1,11 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y2663liu)](https://github.com/anuraghazra/github-readme-stats)
+
+**Skills:**
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/python" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/scala" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/kotlin" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/mysql" /></code>
 
 <!--
 **y2663liu/y2663liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
