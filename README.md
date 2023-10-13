@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&repeat=false&random=false&width=435&height=60&lines=Hello!+I'm+Mark+Liu;I'm+a+CS+Student+from+UW)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&repeat=false&random=false&width=435&height=60&lines=Hello!+I'm+Mark+Liu+(刘亦凡);I'm+a+CS+Student+from+UW)](https://git.io/typing-svg)
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
