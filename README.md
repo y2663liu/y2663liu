@@ -1,11 +1,14 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=100&lines=Hello!+I'm+Mark+Liu;I'm+a+CS+Student+from+UW)](https://git.io/typing-svg)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y2663liu)](https://github.com/anuraghazra/github-readme-stats)
 
 **Skills:**
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/python" /></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" /></code>
-<code><img height="32" width="32" src="https://cdn.simpleicons.org/scala" /></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/kotlin" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/R" /></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/mysql" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/scala" /></code>
 
 <!--
 **y2663liu/y2663liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
