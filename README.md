@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=100&lines=Hello!+I'm+Mark+Liu;I'm+a+CS+Student+from+UW)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&repeat=false&random=false&width=435&height=80&lines=Hello!+I'm+Mark+Liu;I'm+a+CS+Student+from+UW)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y2663liu)](https://github.com/anuraghazra/github-readme-stats)
 
